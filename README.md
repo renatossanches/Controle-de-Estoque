@@ -30,10 +30,9 @@ Se necessário mandar mensagem para o Email: renato.sanches2004@gmail.com la ten
 1. Leiam o arquivo Help, lá explico todas as configurações necessárias para que rode a aplicação.
 2. Como transformar o projeto em Jar
 
-<a href="https://www.youtube.com/watch?v=MA6Uqsb4iAk">
-    <div style="position: relative; display: inline-block; width: 400px;">
-        <img src="https://img.youtube.com/vi/MA6Uqsb4iAk/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="100%" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/YouTube_icon_%282013-2017%29.png" alt="YouTube Icon" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; height: 50px;" />
+<a href="https://www.youtube.com/watch?v=MA6Uqsb4iAk" target="_blank">
+    <div style="position: relative; display: inline-block;">
+        <img src="https://img.youtube.com/vi/MA6Uqsb4iAk/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="400" />
     </div>
 </a>
 
