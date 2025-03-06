@@ -44,7 +44,12 @@ Se necessário mandar mensagem para o Email: renato.sanches2004@gmail.com la ten
   Um icone(para o programa, se preferir, com a extensão .ico);
   e a pasta jre_customizada ela está localizada na pagina inicial do projeto
 - Agora assista ao pequeno tutorial:
-<iframe width="866" height="487" src="https://www.youtube.com/embed/rPJqmKzaLgw" title="JAVA- COMO CRIAR EXE DE UM JAR PELO LAUNCH4J" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/watch?v=rPJqmKzaLgw" target="_blank">
+    <div style="position: relative; display: inline-block;">
+        <img src="https://img.youtube.com/vi/rPJqmKzaLgw/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="400" />
+    </div>
+</a>
   
    
 5.  Como criar um instalador
