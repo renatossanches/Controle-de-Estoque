@@ -1,6 +1,6 @@
 # Controle-de-Estoque
 
-# ---------------------------------------LEIAM TODAS AS INSTRUÇÕES ABAIXO ANTES DE BAIXAR!!!---------------------------------------
+# LEIAM TODAS AS INSTRUÇÕES ABAIXO ANTES DE BAIXAR!!!
 
 # Instrodução: 
 Aqui deixo um projeto bem simples de Controle de Estoque feito em: 
@@ -30,7 +30,8 @@ Se necessário mandar mensagem para o Email: renato.sanches2004@gmail.com la ten
 1. Leiam o arquivo Help, lá explico todas as configurações necessárias para que rode a aplicação.
 2. Como transformar o projeto em Jar
 
-<iframe width="866" height="487" src="https://www.youtube.com/embed/MA6Uqsb4iAk" title="JAVA- COMO CRIAR JAR PELO ECLIPSE - MAVEN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Assista ao vídeo tutorial](https://img.youtube.com/vi/MA6Uqsb4iAk/maxresdefault.jpg)](https://www.youtube.com/watch?v=MA6Uqsb4iAk)
+
 
 3. Como transformar o Jar em Exe
 - Baixe o programa Launch4j: https://sourceforge.net/projects/launch4j/
