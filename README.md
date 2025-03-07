@@ -33,7 +33,7 @@ Se necessário mandar mensagem para o Email: renato.sanches2004@gmail.com la ten
 
 <a href="https://www.youtube.com/watch?v=MA6Uqsb4iAk" target="_blank">
     <div style="position: relative; display: inline-block;">
-        <img src="https://img.youtube.com/vi/MA6Uqsb4iAk/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="100" height="200" />
+        <img src="https://img.youtube.com/vi/MA6Uqsb4iAk/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="400" height="200" />
     </div>
 </a>
 
