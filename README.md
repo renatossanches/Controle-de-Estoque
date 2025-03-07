@@ -30,10 +30,12 @@ Se necessário mandar mensagem para o Email: renato.sanches2004@gmail.com la ten
 1. Leiam o arquivo Help, lá explico todas as configurações necessárias para que rode a aplicação.
 2. Como transformar o projeto em Jar
 
-
+</br>
+</br>
+</br>
 <a href="https://www.youtube.com/watch?v=MA6Uqsb4iAk" target="_blank">
     <div style="position: relative; display: inline-block;">
-        <img src="https://img.youtube.com/vi/MA6Uqsb4iAk/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="400" height="200" />
+        <img src="https://img.youtube.com/vi/MA6Uqsb4iAk/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="400" />
     </div>
 </a>
 
