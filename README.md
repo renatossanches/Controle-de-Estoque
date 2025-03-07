@@ -30,11 +30,13 @@ Se necessário mandar mensagem para o Email: renato.sanches2004@gmail.com la ten
 1. Leiam o arquivo Help, lá explico todas as configurações necessárias para que rode a aplicação.
 2. Como transformar o projeto em Jar
 
+
 <a href="https://www.youtube.com/watch?v=MA6Uqsb4iAk" target="_blank">
     <div style="position: relative; display: inline-block;">
         <img src="https://img.youtube.com/vi/MA6Uqsb4iAk/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="400" />
     </div>
 </a>
+
 
 
 3. Como transformar o Jar em Exe
@@ -45,14 +47,25 @@ Se necessário mandar mensagem para o Email: renato.sanches2004@gmail.com la ten
   e a pasta jre_customizada ela está localizada na pagina inicial do projeto
 - Agora assista ao pequeno tutorial:
 
+
 <a href="https://www.youtube.com/watch?v=rPJqmKzaLgw" target="_blank">
     <div style="position: relative; display: inline-block;">
         <img src="https://img.youtube.com/vi/rPJqmKzaLgw/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="400" />
     </div>
 </a>
   
+
    
 5.  Como criar um instalador
+
+
+
+<a href="https://www.youtube.com/watch?v=qWyctVAoOBo" target="_blank">
+    <div style="position: relative; display: inline-block;">
+        <img src="https://img.youtube.com/vi/qWyctVAoOBo/maxresdefault.jpg" alt="Assista ao vídeo tutorial" width="400" />
+    </div>
+</a>
+
 
 
 # Conclusão:
